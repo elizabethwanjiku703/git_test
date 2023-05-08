@@ -1,0 +1,80 @@
+﻿Author_Year,Effect_Size,Course_Subject,Institution_Type,Mean,N,SD,Mean,N,SD,hedges_g,Standard_Error
+"Omar et al., (2022)",1,Other,Undergraduate,16.70,325.00,4.10,13.40,151.00,4.30,0.79,0.42
+"Omar et al., (2022)",2,Other,Undergraduate,16.30,325.00,4.00,12.60,151.00,4.60,0.88,0.44
+"Omar et al., (2022)",3,Other,Undergraduate,16.80,325.00,3.70,13.40,151.00,4.30,0.87,0.41
+"Omar et al., (2022)",4,Other,Undergraduate,9.00,325.00,4.80,14.60,151.00,4.90,-1.16,0.48
+"Omar et al., (2022)",5,Other,Undergraduate,11.20,325.00,4.60,13.80,151.00,4.40,-0.57,0.44
+"Omar et al., (2022)",6,Other,Undergraduate,14.80,325.00,4.10,13.80,151.00,4.30,0.24,0.42
+"Omar et al., (2022)",7,Other,Undergraduate,3.60,325.00,1.20,3.50,151.00,1.30,0.08,0.12
+"Omar et al., (2022)",8,Other,Undergraduate,3.90,325.00,1.10,3.70,151.00,1.20,0.18,0.12
+"Reyes, M. (2012)",9,Business,Graduate,3.74,31.00,0.44,3.67,43.00,0.47,0.15,0.11
+"Adam et al., (2012)",10,Introductory Socilogy,Undergraduate,78.94,170.00,10.26,81.88,198.00,7.57,-0.33,0.95
+"Adam et al., (2012)",11,Introductory Socilogy,Undergraduate,84.99,170.00,10.18,87.53,198.00,7.62,-0.29,0.95
+"Adam et al., (2012)",12,Introductory Socilogy,Undergraduate,25.24,170.00,3.23,25.30,198.00,3.65,-0.02,0.36
+Rhoads (2020),13,Other,Undergraduate,87.64,41.00,10.37,88.29,40.00,17.14,-0.05,3.16
+Rhoads (2020),14,Other,Undergraduate,3.33,39.00,0.96,2.85,39.00,1.01,0.48,0.22
+Rhoads (2020),15,Other,Undergraduate,3.05,41.00,1.09,2.60,40.00,1.08,0.41,0.24
+Rhoads (2020),16,Other,Undergraduate,3.12,41.00,1.03,3.10,40.00,0.98,0.02,0.22
+Rhoads (2020),17,Other,Undergraduate,2.95,41.00,1.18,2.55,40.00,1.24,0.33,0.27
+Rhoads (2020),18,Other,Undergraduate,2.90,41.00,1.07,2.69,39.00,1.03,0.20,0.23
+Rhoads (2020),19,Other,Undergraduate,2.83,41.00,1.12,2.54,39.00,1.19,0.25,0.26
+Rhoads (2020),20,Other,Undergraduate,3.05,41.00,1.14,2.53,40.00,1.15,0.45,0.25
+Zafer(2015),21,Information Technology,Undergraduate,26.45,22.00,5.60,23.75,20.00,3.64,0.56,1.44
+Zafer(2015),22,Information Technology,Undergraduate,3.29,22.00,0.44,3.34,20.00,0.45,-0.12,0.14
+Zafer(2015),23,Information Technology,Undergraduate,2.23,22.00,1.51,1.90,20.00,1.29,0.23,0.43
+Zafer(2015),24,Information Technology,Undergraduate,42.68,22.00,5.82,38.95,20.00,6.56,0.59,1.92
+Zafer(2015),25,Information Technology,Undergraduate,62.05,22.00,5.46,58.80,20.00,5.77,0.57,1.74
+Zafer(2015),26,Information Technology,Undergraduate,19.36,22.00,8.85,19.85,20.00,5.09,-0.07,2.20
+Zafer(2015),27,Information Technology,Undergraduate,4.58,22.00,0.60,4.67,20.00,0.45,-0.16,0.16
+Zafer(2015),28,Information Technology,Undergraduate,4.81,22.00,0.45,4.75,20.00,0.55,0.12,0.16
+"Block et al., (2008)",29,Health and Wellness,Undergraduate,3.74,18.00,0.58,3.62,19.00,0.40,0.24,0.16
+"Block et al., (2008)",30,Health and Wellness,Undergraduate,3.83,18.00,0.86,3.11,19.00,0.94,0.78,0.30
+"Block et al., (2008)",31,Health and Wellness,Undergraduate,4.06,18.00,0.64,3.95,19.00,0.62,0.17,0.21
+"Block et al., (2008)",32,Health and Wellness,Undergraduate,4.11,18.00,0.76,4.00,19.00,0.67,0.15,0.24
+"Block et al., (2008)",33,Health and Wellness,Undergraduate,3.67,18.00,0.90,3.79,19.00,0.92,-0.13,0.30
+"Block et al., (2008)",34,Health and Wellness,Undergraduate,4.00,18.00,0.97,3.89,19.00,0.32,0.15,0.24
+"Block et al., (2008)",35,Health and Wellness,Undergraduate,3.06,18.00,1.11,4.05,19.00,0.40,-1.17,0.28
+"Block et al., (2008)",36,Health and Wellness,Undergraduate,3.00,18.00,1.14,3.84,19.00,0.60,-0.91,0.30
+"Block et al., (2008)",37,Health and Wellness,Undergraduate,3.28,18.00,1.32,3.84,19.00,0.37,-0.57,0.32
+"Block et al., (2008)",38,Health and Wellness,Undergraduate,3.94,18.00,0.80,3.89,19.00,0.46,0.08,0.22
+"Block et al., (2008)",39,Health and Wellness,Undergraduate,4.28,18.00,0.96,3.53,19.00,0.84,0.82,0.30
+"Block et al., (2008)",40,Health and Wellness,Undergraduate,4.33,18.00,0.77,3.53,19.00,0.77,1.02,0.25
+"Block et al., (2008)",41,Health and Wellness,Undergraduate,3.50,18.00,0.99,3.89,19.00,0.32,-0.52,0.24
+"Block et al., (2008)",42,Health and Wellness,Undergraduate,3.33,18.00,0.77,3.63,19.00,0.68,-0.40,0.24
+"Block et al., (2008)",43,Health and Wellness,Undergraduate,3.56,18.00,0.98,3.79,19.00,0.42,-0.30,0.25
+"Block et al., (2008)",44,Health and Wellness,Undergraduate,3.28,18.00,1.18,3.21,19.00,0.92,0.06,0.35
+"Block et al., (2008)",45,Health and Wellness,Undergraduate,3.83,18.00,0.86,3.32,19.00,0.89,0.57,0.29
+"Block et al., (2008)",46,Health and Wellness,Undergraduate,4.53,18.00,0.51,3.59,19.00,0.62,1.62,0.19
+"Block et al., (2008)",47,Health and Wellness,Undergraduate,4.47,18.00,0.51,3.59,19.00,0.80,1.28,0.22
+"Block et al., (2008)",48,Health and Wellness,Undergraduate,4.12,18.00,0.60,3.65,19.00,0.61,0.76,0.20
+"Block et al., (2008)",49,Health and Wellness,Undergraduate,4.29,18.00,0.59,3.59,19.00,0.62,1.13,0.20
+"Block et al., (2008)",50,Health and Wellness,Undergraduate,3.35,18.00,1.22,3.65,19.00,0.93,-0.27,0.36
+"Block et al., (2008)",51,Health and Wellness,Undergraduate,3.06,18.00,1.03,3.88,19.00,0.78,-0.88,0.30
+"Block et al., (2008)",52,Health and Wellness,Undergraduate,3.00,18.00,1.27,3.00,19.00,1.06,0.00,0.39
+"Block et al., (2008)",53,Health and Wellness,Undergraduate,3.24,18.00,1.03,2.59,19.00,1.00,0.63,0.33
+"Block et al., (2008)",54,Health and Wellness,Undergraduate,3.59,18.00,1.06,3.53,19.00,0.72,0.07,0.30
+Summers & Waigandt. (2005),55,Statistics,Undergraduate,4.40,14.00,0.84,4.80,19.00,0.37,-0.64,0.24
+Summers & Waigandt. (2005),56,Statistics,Undergraduate,4.50,14.00,0.76,4.80,19.00,0.92,-0.34,0.29
+Summers & Waigandt. (2005),57,Statistics,Undergraduate,3.60,14.00,1.28,4.90,18.00,0.24,-1.47,0.35
+Summers & Waigandt. (2005),58,Statistics,Undergraduate,4.30,11.00,0.90,5.00,19.00,0.00,-1.27,0.27
+Summers & Waigandt. (2005),59,Statistics,Undergraduate,3.70,10.00,1.16,4.80,18.00,0.38,-1.43,0.38
+Summers & Waigandt. (2005),60,Statistics,Undergraduate,4.20,12.00,1.11,4.70,19.00,0.58,-0.59,0.35
+Summers & Waigandt. (2005),61,Statistics,Undergraduate,3.50,6.00,1.38,4.70,19.00,0.45,-1.53,0.57
+Summers & Waigandt. (2005),62,Statistics,Undergraduate,3.90,12.00,1.16,4.70,19.00,0.45,-0.98,0.35
+Summers & Waigandt. (2005),63,Statistics,Undergraduate,3.60,12.00,1.24,4.60,19.00,0.60,-1.08,0.38
+Summers & Waigandt. (2005),64,Statistics,Undergraduate,4.30,13.00,0.63,4.70,19.00,0.45,-0.74,0.20
+Summers & Waigandt. (2005),65,Statistics,Undergraduate,3.80,14.00,1.05,4.20,19.00,0.71,-0.45,0.32
+Summers & Waigandt. (2005),66,Statistics,Undergraduate,3.80,14.00,1.12,4.10,19.00,0.74,-0.32,0.34
+Summers & Waigandt. (2005),67,Statistics,Undergraduate,4.00,13.00,0.91,4.10,19.00,0.85,-0.11,0.32
+Summers & Waigandt. (2005),68,Statistics,Undergraduate,3.70,12.00,0.89,4.10,19.00,0.78,-0.47,0.31
+Summers & Waigandt. (2005),69,Statistics,Undergraduate,3.80,13.00,1.09,4.40,19.00,0.69,-0.67,0.34
+Summers & Waigandt. (2005),70,Statistics,Undergraduate,3.90,13.00,1.12,4.50,19.00,0.70,-0.66,0.35
+"Saman et al., (2021)",71,Science,Undergraduate,17.32,22.00,1.83,16.67,22.00,1.82,0.35,0.55
+"Saman et al., (2021)",72,Science,Undergraduate,4.10,22.00,0.20,3.36,22.00,0.31,2.79,0.08
+"Wee et al., (2016)",73,Introductoy Psychology,Undergraduate,68.96,42.00,11.17,73.25,752.00,9.04,-0.47,1.75
+"Wee et al., (2016)",74,Introductoy Psychology,Undergraduate,11.87,42.00,3.75,12.91,752.00,2.91,-0.35,0.59
+"Wee et al., (2016)",75,Introductoy Psychology,Undergraduate,21.38,42.00,4.42,21.28,752.00,3.94,0.03,0.70
+"Wee et al., (2016)",76,Introductoy Psychology,Undergraduate,21.49,42.00,3.26,24.43,752.00,2.84,-1.03,0.51
+"Wee et al., (2016)",77,Introductoy Psychology,Undergraduate,32.02,42.00,7.41,32.63,752.00,6.15,-0.10,1.17
+"Rashmi et al., (2022)",78,Other,Undergraduate,6.60,26.00,0.30,5.80,26.00,0.40,2.23,0.10
+"Rashmi et al., (2022)",79,Other,Undergraduate,7.40,26.00,0.20,9.10,26.00,0.20,-8.37,0.06
